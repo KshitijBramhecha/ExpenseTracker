@@ -1,1 +1,5 @@
-Test file
+function main(){
+  return (
+    console.log("Test");
+  )
+}
